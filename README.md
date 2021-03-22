@@ -34,7 +34,7 @@ app.ipynb：主程式，包含訓練與預測
 
 data/all_data.csv：所有訓練資料取自https://data.gov.tw/dataset/19995
 
-predict.csv：要預測的資料，2~22行是前21天的電力資訊，24~30行是之後7天的氣溫預測和星期排序
+predict.csv：要預測的資料，2 ~ 22行是前21天的電力資訊，24 ~ 30行是之後7天的氣溫預測和星期排序
 
 <br />
 
